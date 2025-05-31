@@ -1,0 +1,51 @@
+#main {
+    font-size: 2rem;
+    margin: 0 auto;
+    max-width: 1280px;
+}
+
+h1 {
+    background-color: #818b981f;
+    border-radius: 6px;
+    padding: 12px;
+}
+
+.wrapper {
+    display: flex;
+    flex-flow: wrap;
+}
+
+#content {
+    flex-grow: 4;
+}
+
+#content>div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left {
+    width: 300px;
+}
+
+.right {
+    width: 480px;
+}
+
+i {
+    font-style: normal;
+    background-color: #818b981f;
+    border-radius: 6px;
+    padding: 2px;
+}
+
+.aside {
+    flex-grow: 1;
+    border: solid 1px #818b981f;
+    border-radius: 6px;
+    padding: 12px;
+}
+
+.aside>div {
+    margin-bottom: 6px;
+}
