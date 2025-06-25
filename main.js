@@ -1,9 +1,9 @@
 const data = {
-    "Kobe": "KOU-bee",
-    "Neymar": "NEI-mar",
-    "Euler": "OI-liir",
-    "Gauss": "GAUS",
-    "Vinci": "VIN-chee",
+    "Kobe": "kou-bee",
+    "Neymar": "nei-mar",
+    "Euler": "oi-liir",
+    "Gauss": "gaus",
+    "Vinci": "vin-chee",
     "international": "--in-tiir-NAASH-iin-iil",
 };
 
