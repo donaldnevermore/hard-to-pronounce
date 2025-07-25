@@ -4,7 +4,7 @@ const data = {
     "Euler": "oi-liir",
     "Gauss": "gaus",
     "Vinci": "vin-chee",
-    "international": "--in-tiir-NAASH-iin-iil",
+    "international": ".in-tiir-NAASH-iin-iil",
 };
 
 const c = document.getElementById("content");
